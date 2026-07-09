@@ -1,6 +1,8 @@
 ## Kopfrechnen
-Score:
+Score: 13
+Settings: 2-100 (Add), 2-12 (Mult)
 ## Speed-Reading
-WPM:
+WPM: 397
 ## 10-Finger-Tippen
-WPM: 
+WPM: 37
+Acc: 97%
