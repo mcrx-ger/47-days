@@ -74,7 +74,7 @@ Das läuft parallel zu allem und trainiert zwei deiner Interessen kontinuierlich
 - **Aufgabe:** Bandit **Level 6–14**. Danach schreib ein kleines Bash-Script, das etwas Nützliches tut (z.B. alle `.jpg` in einem Ordner umbenennt oder ein Backup zippt).
 - **Stretch:** Bis Level 18 durchziehen.
 - **Deliverable:** Script im Repo, Bandit-Fortschritt notiert.
-
+s
 ### Tag 4 · 🔢 Kopfrechnen – Trickkiste 🟡
 - **Ziel:** Aufhören, im Kopf schriftlich zu rechnen.
 - **Aufgabe:** Lerne & übe: ×11-Trick, Quadrate von Zahlen auf 5 (`35² = 3·4|25 = 1225`), Komplement-Methode bei Subtraktion, Kreuzmultiplikation für zweistellige Produkte. Grundidee des **Trachtenberg-Systems** anschauen.
