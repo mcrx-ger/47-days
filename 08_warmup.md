@@ -1,7 +1,7 @@
 ## Kopfrechnen
 Score: 7,10
 
-Settings: 2-1000 (Add), 2-100 (Mult), 5min
+Settings: 2-1000 (Add), 2-100 (Mult, ohne Div), 5min
 ## Speed Reading (3-2-1 Übung)
 `167 - 250 - 470 WPM`
 

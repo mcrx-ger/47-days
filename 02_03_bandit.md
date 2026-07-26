@@ -1,4 +1,4 @@
-`ssh bandit12@bandit.labs.overthewire.org -p2220`
+`ssh bandit13@bandit.labs.overthewire.org -p2220`
 
 ## Lvl 0 > 1
 - Passwort: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
@@ -55,5 +55,5 @@
 - Gelernt: gunzip, bunzip2, tar -xf, immer file benutzen um echtes (verstecktes) Dateiformat herauszufinden
 
 ## Lvl 13 > 14
-- 
-- 
+- Passwort: aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
+- Gelernt: Datei von remote host holen mit scp: scp -P <port> <user>@<IP>:<remotefilepath> <localfilepath>, Schreibrechte ändern mit chmod <neue rechte (3 Zahlen: 1. Owner, 2.Group, 3.Rest)> <file>, dann ssh mit private-key-file verbinden (nutzen von -i flag)
