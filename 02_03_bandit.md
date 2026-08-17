@@ -56,4 +56,8 @@
 
 ## Lvl 13 > 14
 - Passwort: aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
-- Gelernt: Datei von remote host holen mit scp: scp -P <port> <user>@<IP>:<remotefilepath> <localfilepath>, Schreibrechte ändern mit chmod <neue rechte (3 Zahlen: 1. Owner, 2.Group, 3.Rest)> <file>, dann ssh mit private-key-file verbinden (nutzen von -i flag)
+- Gelernt: Datei von remote host holen mit scp: `scp -P <port> <user>@<IP>:<remotefilepath> <localfilepath>`, Schreibrechte ändern mit `chmod <neue rechte (3 Zahlen: 1. Owner, 2.Group, 3.Rest)> <file>`, dann ssh mit private-key-file verbinden (nutzen von -i flag)
+
+## Lvl 14 > 15
+- Passwort: pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
+- Gelernt: über telnet kommunizieren, verbinden mit `telnet  <IP> <port>`
